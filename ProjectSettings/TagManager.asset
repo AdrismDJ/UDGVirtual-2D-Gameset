@@ -11,10 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Climbing
+  - Player
+  - Background
   - 
   - 
   - 
@@ -40,4 +40,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1477992215
+    locked: 0
+  - name: Grass-Water
+    uniqueID: 1923289491
+    locked: 0
+  - name: Platforms
+    uniqueID: 3339210239
+    locked: 0
+  - name: Climbing
+    uniqueID: 3359280305
+    locked: 0
+  - name: Player
+    uniqueID: 1763077165
     locked: 0
